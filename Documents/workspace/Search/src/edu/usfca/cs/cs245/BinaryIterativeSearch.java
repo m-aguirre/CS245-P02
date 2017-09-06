@@ -6,7 +6,7 @@ public class BinaryIterativeSearch implements Practice2Search {
 	public String searchName() {
 		return null;
 	}
-
+	//comment for commit
 	@Override
 	public int search(int[] arr, int target) {
 		int max = arr.length;
